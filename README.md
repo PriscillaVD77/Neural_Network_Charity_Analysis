@@ -22,7 +22,7 @@ What steps did you take to try and increase model performance? <br>
 We first attempted to get rid of extraneous figures that did not add to the optimization of the model: <br>
 ![drop_extra_features](images/drop_columns.png)
 ![add_hidden_layers](images/hide_neurons.png)
-![change activation](images/activation.png)
+![change activation](images/activation.png) <br>
 After our optimization attempts we were able to increase our accuracy to .73.
 ![Final optimization](images/OG.png)
 ## Summary
